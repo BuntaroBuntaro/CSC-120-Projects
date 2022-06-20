@@ -5,9 +5,9 @@ namespace ch4 {
     class ClubRewards {
         int books;
         int points;
-        int computePoints(int inputPoints);
+        void computePoints();
     public:
-        void getPoints();
+        void getBooks();
         void printPoints();
     };
 }
