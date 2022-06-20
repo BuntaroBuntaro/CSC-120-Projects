@@ -1,0 +1,3 @@
+/Users/buntaro/Documents/CS/C++/CSC120/Week 2/cmake-build-debug/CMakeFiles/Week_2.dir
+/Users/buntaro/Documents/CS/C++/CSC120/Week 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/buntaro/Documents/CS/C++/CSC120/Week 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
