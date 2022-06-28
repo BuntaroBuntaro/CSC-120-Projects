@@ -5,12 +5,6 @@ using std::cout;
 using std::cin;
 using std::endl;
 
-// 0 0
-// 1 5
-// 2 15
-// 3 30
-// 4 60
-
 namespace ch4 {
 
     void ClubRewards::computePoints() {
